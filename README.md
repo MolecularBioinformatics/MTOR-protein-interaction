@@ -10,5 +10,7 @@ The MTOR signaling pathway, or mammalian  mechanistic target of rapamycin pathwa
 
 1. Data: Fasta files, Hmmer profiles, and structure files for G3BP1 and TSC2
 2. Images: Plots and visualisations of DCA results
-3. Scripts: Simple, ad-hoc python scripts to manipulate result files for visualisation purposes, analysis pipeline in progress
-4. mfDCA: Original utput of pydca's meanfield DCA implementation
+3. Scripts: Simple ad-hoc python scripts to manipulate result files for visualisation purposes, analysis pipeline in progress
+4. mfDCA: Original output of pydca's meanfield DCA implementation
+
+Refer to the WIKI for more information about the project.
