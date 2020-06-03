@@ -13,4 +13,4 @@ The MTOR signaling pathway, or mammalian  mechanistic target of rapamycin pathwa
 3. Scripts: Simple ad-hoc python scripts to manipulate result files for visualisation purposes, analysis pipeline in progress
 4. mfDCA: Original output of pydca's meanfield DCA implementation
 
-Refer to the WIKI for more information about the project.
+Refer to the [wiki](https://github.com/MolecularBioinformatics/MTOR-protein-interaction/wiki) for more information about the project.
